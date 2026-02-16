@@ -1,0 +1,14 @@
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\bin\Debug\net8.0\OAIP Laba C#.exe
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\bin\Debug\net8.0\OAIP Laba C#.deps.json
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\bin\Debug\net8.0\OAIP Laba C#.runtimeconfig.json
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\bin\Debug\net8.0\OAIP Laba C#.dll
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\bin\Debug\net8.0\OAIP Laba C#.pdb
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\OAIP Laba C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\OAIP Laba C#.AssemblyInfoInputs.cache
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\OAIP Laba C#.AssemblyInfo.cs
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\OAIP Laba C#.csproj.CoreCompileInputs.cache
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\OAIP Laba C#.dll
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\refint\OAIP Laba C#.dll
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\OAIP Laba C#.pdb
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\OAIP Laba C#.genruntimeconfig.cache
+C:\Users\F\source\repos\OAIP Laba C#\OAIP Laba C#\obj\Debug\net8.0\ref\OAIP Laba C#.dll
